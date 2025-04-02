@@ -1,5 +1,5 @@
 # Prompt-Track
-Real-time tomato detection and tracking system for demonstration.
+Real-time prompt-based detection and tracking system for demonstration.
 
 ## Project Structure
 

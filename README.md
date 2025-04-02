@@ -44,3 +44,12 @@ The project is organized as follows:
    cd checkpoints
    ./download_ckpts.sh
    ```
+
+### Run Live Caption Demo
+```
+python florence2_live_caption_app.py
+```
+### Run Live Tracking Demo
+```
+python florence2_sam2_live.py
+```

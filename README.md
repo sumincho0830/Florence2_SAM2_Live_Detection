@@ -1,4 +1,4 @@
-# Tomato Robot
+# Prompt-Track
 Real-time tomato detection and tracking system for demonstration.
 
 ## Project Structure

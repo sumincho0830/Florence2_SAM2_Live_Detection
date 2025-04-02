@@ -44,16 +44,6 @@ The project is organized as follows:
    cd checkpoints
    ./download_ckpts.sh
    ```
-2. Download Yolo v8 tomato detection model weight from https://drive.google.com/drive/folders/11IqbObmeL-HkpezpPxxycvjWyypTffwy?usp=drive_link
-   - Place `yolo_v8_tomato.pt` in the `checkpoints/` path
-
-### Zed Camera Settings (Window)
-1. Download ZED SDK from https://www.stereolabs.com/developers/release/ 
-2. Download ZED SDK Python API
-   ```
-   cd C:\Program Files (x86)\ZED SDK
-   python get_python_api.py
-   ```
 
 ### Environment Management
 

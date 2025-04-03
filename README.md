@@ -1,4 +1,4 @@
-# Prompt-Track
+# Prompt-Detection
 Real-time prompt-based detection and tracking system for demonstration.
 
 ## Project Structure

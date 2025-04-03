@@ -13,8 +13,8 @@ onnx = "*"
 onnxsim = "*"
 opencv-python = ">=4.7.0"
 transformers = "*"
-torch = {version = ">=2.3.1", index = "pytorch"}
-torchvision = {version = ">=0.18.1", index = "pytorch"}
+torch = {version = "==2.3.1", index = "pytorch"}
+torchvision = {version = "==0.18.1", index = "pytorch"}
 torchaudio = {version = "*", index = "pytorch"}
 autorootcwd = "*"
 gradio = "*"

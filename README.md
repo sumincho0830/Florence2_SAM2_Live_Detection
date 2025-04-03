@@ -22,8 +22,8 @@ The project is organized as follows:
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/tomato-robot.git
-   cd tomato-robot
+   git clone https://github.com/sumincho0830/Prompt-Detection.git
+   cd Prompt-Detection
    ```
 
 2. Install dependencies using pipenv:

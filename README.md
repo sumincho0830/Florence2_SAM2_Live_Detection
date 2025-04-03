@@ -104,8 +104,15 @@ The project is organized as follows:
 ```
 python .\script\florence2_live_caption_app.py
 ```
+
+https://github.com/user-attachments/assets/f8c599b2-b559-403f-b2db-ba3277402bb3
+
+
 ### Run Live Tracking Demo
 ```
 python .\script\florence2_sam2_live_detection_app.py
 ```
+https://github.com/user-attachments/assets/eb34ff5a-4483-43cf-aada-88f229915cde
+
+
 
